@@ -1,7 +1,7 @@
 # GitExam
-# Project Title
+# Case Study
 
-> A short description about the project and/or client.
+Eric is tasked with greeting users and checking thir names
 
 ## Getting Started
 
