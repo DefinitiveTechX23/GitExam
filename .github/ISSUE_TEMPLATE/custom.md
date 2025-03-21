@@ -3,63 +3,62 @@ name: Custom issue template
 about: Exam Issue template
 title: ''
 labels: ''
-assignees: DefinitiveTechX23
+assignees: Eric
 
 ---
 
-LINE BREAK
+<br>
 name: Task Creation Template
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
 assignees: ''
 
-LINE BREAK
+<br>
 
-HEADER 2 - Task Owner (Responsible): [First Name, Last Initial]
+## Task Owner (Responsible): [First Name, Last Initial]
 
-HEADER 2 - Task Assignee (Accountable): [First Name, Last Initial]
+## Task Assignee (Accountable): [First Name, Last Initial]
 
-HEADER 2 - Task Deadline: [MM/DD/YYYY]
+## Task Deadline: [MM/DD/YYYY]
 
-HEADER 2 - Task Description:
+## Task Description:
 
-BOLD/ITALICS - Clearly describe the task, including what needs to be done and why.
+**Clearly describe the task, including what needs to be done and why.**
 
-HEADER 2 - Acceptance Criteria:
+## Acceptance Criteria:
 
-BOLD/ITALICS - Define specific criteria that must be met for the task to be considered complete. This sets clear expectations for the desired outcome.
+**Define specific criteria that must be met for the task to be considered complete. This sets clear expectations for the desired outcome.**
 
-HEADER 2 - Estimation:
+## Estimation:
 
-BOLD/ITALICS - Provide time estimates for each task based on complexity and effort. Use story points or time units (e.g., hours) to estimate.
+**Provide time estimates for each task based on complexity and effort. Use story points or time units (e.g., hours) to estimate.**
 
-HEADER 2 - Dependencies:
+## Dependencies:
 
-BOLD/ITALICS - Identify any dependencies on other tasks, team members, or external factors. Ensure that prerequisites are met before starting a task.
+**Identify any dependencies on other tasks, team members, or external factors. Ensure that prerequisites are met before starting a task.**
 
-HEADER 2 - Priority:
+## Priority:
 
-BOLD/ITALICS - Assign a priority level to each task based on its importance and impact on the project. Prioritize tasks within the backlog or sprint.
+**Assign a priority level to each task based on its importance and impact on the project. Prioritize tasks within the backlog or sprint.**
 
-HEADER 2 - Task Type:
+## Task Type:
 
-BOLD/ITALICS - Categorize tasks based on their type (e.g., development, testing, design). This helps in planning and resource allocation.
+**Categorize tasks based on their type (e.g., development, testing, design). This helps in planning and resource allocation.**
 
-HEADER 2 - Subtasks:
+## Subtasks:
 
-BOLD/ITALICS - Break down larger tasks into smaller, manageable subtasks. This facilitates a more granular approach to tracking progress.
+**Break down larger tasks into smaller, manageable subtasks. This facilitates a more granular approach to tracking progress.**
 
-LINE BREAK
+<br>
 
-HEADER 2 - Testing Requirements:
+## Testing Requirements:
 
-BOLD/ITALICS - Specify testing requirements for each task, including unit tests and any necessary integration or end-to-end tests.
+**Specify testing requirements for each task, including unit tests and any necessary integration or end-to-end tests.**
 
-HEADER 2 - Documentation:
+## Documentation:
+**Identify any documentation needs associated with the task. This may include code comments, API documentation, or end-user documentation.**
 
-BOLD/ITALICS - Identify any documentation needs associated with the task. This may include code comments, API documentation, or end-user documentation.
+## Definition of Done:
 
-HEADER 2 - Definition of Done:
-
-BOLD/ITALICS - Clearly define what "done" means for each task. This includes meeting coding standards, passing tests, and completing documentation.
+**Clearly define what "done" means for each task. This includes meeting coding standards, passing tests, and completing documentation.**
