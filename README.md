@@ -11,9 +11,9 @@ Eric is tasked with greeting users and checking thir names
 
     The things you need before installing the software.
 
-BULLET POINT You need this
-BULLET POINT And you need this
-BULLET POINT Oh, and don't forget this
+* You need this
+* And you need this
+* Oh, and don't forget this
 
 ### Installation
 
@@ -36,7 +36,7 @@ $ And keep this in mind
 ```
 ### Branches
 
-* Main:
-* Feature:
+* Main: ./getName.js
+* Feature: eligibitly check
 * Bugfix:
 * etc...
